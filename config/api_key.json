@@ -1,0 +1,17 @@
+{
+    "deepseek": {
+        "base_url": "",
+        "api_key": "",
+        "model": "deepseek-chat"
+    },
+    "gpt-4o": {
+        "base_url": "",
+        "api_key": "",
+        "model": "gpt-4o"
+    },
+    "gpt-4o-mini": {
+        "base_url": "",
+        "api_key": "",
+        "model": "gpt-4o-mini"
+    }
+}
